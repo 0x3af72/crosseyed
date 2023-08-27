@@ -2,7 +2,7 @@
 Crosseyed (2022), unfinished autostereogram game
 
 ## How this works
-To "play", cross your eyes and make the red dots match. You should slowly start seeing a "tetris like game" form, with some squares.
+To "play", run main.exe, or find out how to main.cpp yourself. cross your eyes and make the red dots match. You should slowly start seeing a "tetris like game" form, with some squares.
 
 The player is the square at the bottom left corner. Use A and D keys to move around.
 
